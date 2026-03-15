@@ -56,7 +56,7 @@ app.get('/', (req, res) => {
       <body>
         <div class="container">
           <div class="badge"><span class="dot"></span>Live on DigitalOcean</div>
-          <h1>Sreenivas <span>Lab</span></h1>
+          <h1>Leo Blu <span>Lab</span></h1>
           <p class="subtitle">Building cool things, one commit at a time.</p>
           <div class="cards">
             <div class="card">
